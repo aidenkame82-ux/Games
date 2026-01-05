@@ -1,4 +1,4 @@
---[[
+https://www.roblox.com/share?code=99b006f703b04649bd83ea7d375163c2&type=Server
     R3TH PRIV LOADER SOURCE
 
     .gg/pethicial
